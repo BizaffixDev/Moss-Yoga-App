@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067426349572",
+    "project_id": "mossyoga-101",
+    "storage_bucket": "mossyoga-101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067426349572:android:91ac00c5e7639cf5bcab51",
+        "android_client_info": {
+          "package_name": "com.example.moss_yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067426349572-r8ulhmip8m6tnqmpf298e7vo171q02va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dN2-hMlL40jRXU3Arq8QAxyEbggN_cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067426349572-r8ulhmip8m6tnqmpf298e7vo171q02va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

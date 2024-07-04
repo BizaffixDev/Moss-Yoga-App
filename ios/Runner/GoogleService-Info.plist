@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1067426349572-sqln0hp1l6l6eeltqnajf2jrq45lu1lu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1067426349572-sqln0hp1l6l6eeltqnajf2jrq45lu1lu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgLGUepKPwEObCIcQZVNuSyOho88rITIY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1067426349572</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mossYoga</string>
+	<key>PROJECT_ID</key>
+	<string>mossyoga-101</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mossyoga-101.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1067426349572:ios:a9c61823a278c0f8bcab51</string>
+</dict>
+</plist>
